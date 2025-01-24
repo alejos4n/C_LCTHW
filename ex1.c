@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*la extensión .h es por headers*/
 /* esta es una forma de comentario */
 int main(int argc, char*argv[])
 {
