@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 //operadores lógicos
-
+/*nota: en C normalmente se dice que compara si algo es verdadero o falso pero eso no es cierto al cien por ciento
+como C es de bajo nivel, es mas fácil comprobar si algo es cero o falso pero otra comparación es difícil
+por eso es más preciso decir que las comparaciones están comparando si algo es cero(0)/falso o si es cualquier otro valor
+*/
 int main(void) {
 	int n = 5;
 	int m = 10;
