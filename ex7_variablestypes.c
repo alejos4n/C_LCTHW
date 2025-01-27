@@ -23,7 +23,7 @@ int main(int argc, char*argv[])
     printf("usted tiene %d bugs en la linea %f \n", bugs, bug_rate);
 
     long universe_of_defects = 1L * 1024L * 1024L * 1024L;
-    printf("el universo entero tiene %ld \n", universe_of_defects);
+    printf("el universo entero tiene %ld \n", universe_of_defects); //la d en %ld es para que muestre decimales
 
     double expected_bugs = bugs * bug_rate;
     printf("los bugs esperados son %f \n", expected_bugs);
