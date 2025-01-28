@@ -1,2 +1,2 @@
 # C_LCTHW
-Código del libro Leran C the Hard Way - Zed A. Shaw
+Código del libro Learn C the Hard Way - Zed A. Shaw
