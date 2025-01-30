@@ -1,6 +1,18 @@
 #include <stdio.h>
 #include <ctype.h>
 
+/*las funciones se distinguen por el nombre
+son más como un método en java
+función recursiva, cuando se invocan ellas mismas
+una función tiene otras tareas que se llaman parámetros*/
+
+/*
+tipo_de_retorno nombre_de_la_función (lista_de_parámetros) 
+{
+	cuerpo_de_la_función 
+	return expresión
+}
+*/
 
 int can_print_it(char ch);
 void print_letters(char arg[]);
